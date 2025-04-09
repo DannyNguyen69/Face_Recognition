@@ -1,0 +1,7 @@
+path: D:\Face_Recognition\yolo_face_dataset
+train: train\images
+val: valid\images
+test: test\images
+nc: 
+names:
+
