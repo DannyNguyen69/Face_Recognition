@@ -14,8 +14,7 @@ You need to have these libaries:
 # Labeling_app
 "I use a Cascade Classifier to detect human faces, which then appear as bounding boxes around the faces in OpenCV. After that, the program saves the images and their corresponding labels as a YOLO dataset, along with a .yml file and a .txt file containing the number of classes.  
 ## Dataset structure:
-
-Dưới đây là cấu trúc thư mục của dataset:  
+  
 
 dataset/  
 ├── images/  
